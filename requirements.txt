@@ -1,0 +1,6 @@
+sentence_transformers
+nucliadb-client
+requests
+nucliadb
+bs4
+devtools
